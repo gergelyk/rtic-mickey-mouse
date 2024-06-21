@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2024-06-21T08:03:49.955Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="CJWRxvazppT9T4x4eyjv" version="21.6.8" type="device">
+  <diagram name="Page-1" id="nmx2QEf_UrKVsQiAad-_">
+    <mxGraphModel dx="797" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-13" value="sample_clk" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-1" value="BlackPill&lt;br&gt;(STM32F401CCUx)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="160" y="80" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-2" value="TFMS 5360" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-4" value="PB9&lt;br&gt;&lt;br&gt;5V&lt;br&gt;&lt;br&gt;GND&lt;br&gt;&lt;br&gt;PA1" style="rounded=0;whiteSpace=wrap;html=1;align=right;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="120" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-5" value="IR&lt;br&gt;&lt;br&gt;VCC&lt;br&gt;&lt;br&gt;GND" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="330" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="130" as="sourcePoint" />
+            <mxPoint x="320" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-10" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="159.66" as="sourcePoint" />
+            <mxPoint x="320" y="159.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="190" as="sourcePoint" />
+            <mxPoint x="320" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="220" as="sourcePoint" />
+            <mxPoint x="300" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-14" value="USB" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="135" width="60" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ngGNSmnJ4l0yn3No9_Eo-15" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="170" as="sourcePoint" />
+            <mxPoint x="160" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccUpjIYGwr14sUhAeVsp-1" value="Host" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ccUpjIYGwr14sUhAeVsp-2" value="Remote Control&lt;br&gt;(DV-MLG-20)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ccUpjIYGwr14sUhAeVsp-3" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="413" y="147.5" width="25" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
