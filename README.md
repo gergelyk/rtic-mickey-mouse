@@ -14,6 +14,8 @@ Remote control as a Mouse & Keyboard.
 
 ## Usage
 
+[<img src="docs/video.png">](https://p-lux2.pcloud.com/cBZrLisNAZiAHX3L7ZZZANmpkkZQ5ZZBiRZkZsx6lZIpZ35ZS4Zc4ZB4Zl8ZtJZ0JZlpZQzZpQZM4ZYLZyRZnOW10ZsNmhJbgOweH8DBSvhDIsbSMjB7g7/perma-rtic-mickey-mouse.mp4)
+
 ![](docs/usage.png)
 
 ## Hardware Design
